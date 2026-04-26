@@ -1,0 +1,670 @@
+{
+  "source": "hierro.xlsx",
+  "largo_barra": 12.0,
+  "data": {
+    "bases_y_vf": {
+      "8": [
+        {
+          "nombre": "PLATEA",
+          "phi": 8,
+          "cant_elementos": 32,
+          "cant_rep": 1,
+          "medida": 3.2
+        },
+        {
+          "nombre": "PLATEA",
+          "phi": 8,
+          "cant_elementos": 20,
+          "cant_rep": 1,
+          "medida": 3.9
+        },
+        {
+          "nombre": "PLATEA",
+          "phi": 8,
+          "cant_elementos": 34,
+          "cant_rep": 1,
+          "medida": 1.0
+        },
+        {
+          "nombre": "PLATEA",
+          "phi": 8,
+          "cant_elementos": 10,
+          "cant_rep": 1,
+          "medida": 2.4
+        },
+        {
+          "nombre": "PLATEA",
+          "phi": 8,
+          "cant_elementos": 10,
+          "cant_rep": 1,
+          "medida": 2.7
+        },
+        {
+          "nombre": "VF",
+          "phi": 8,
+          "cant_elementos": 28,
+          "cant_rep": 1,
+          "medida": 4.49
+        },
+        {
+          "nombre": "VF",
+          "phi": 8,
+          "cant_elementos": 25,
+          "cant_rep": 1,
+          "medida": 6.24
+        },
+        {
+          "nombre": "VF",
+          "phi": 8,
+          "cant_elementos": 10,
+          "cant_rep": 1,
+          "medida": 1.8
+        },
+        {
+          "nombre": "VF",
+          "phi": 8,
+          "cant_elementos": 7,
+          "cant_rep": 1,
+          "medida": 3.24
+        },
+        {
+          "nombre": "VF",
+          "phi": 8,
+          "cant_elementos": 10,
+          "cant_rep": 1,
+          "medida": 2.14
+        },
+        {
+          "nombre": "VF",
+          "phi": 8,
+          "cant_elementos": 15,
+          "cant_rep": 1,
+          "medida": 3.84
+        },
+        {
+          "nombre": "VF",
+          "phi": 8,
+          "cant_elementos": 28,
+          "cant_rep": 1,
+          "medida": 5.27
+        },
+        {
+          "nombre": "VF",
+          "phi": 8,
+          "cant_elementos": 14,
+          "cant_rep": 1,
+          "medida": 2.32
+        },
+        {
+          "nombre": "VF",
+          "phi": 8,
+          "cant_elementos": 30,
+          "cant_rep": 1,
+          "medida": 4.87
+        },
+        {
+          "nombre": "VF",
+          "phi": 8,
+          "cant_elementos": 21,
+          "cant_rep": 1,
+          "medida": 6.9
+        }
+      ],
+      "10": [
+        {
+          "nombre": "BASE 1",
+          "phi": 10,
+          "cant_elementos": 8,
+          "cant_rep": 1,
+          "medida": 2.3
+        },
+        {
+          "nombre": "BASE 4/14",
+          "phi": 10,
+          "cant_elementos": 7,
+          "cant_rep": 2,
+          "medida": 1.7
+        },
+        {
+          "nombre": "BASE 5",
+          "phi": 10,
+          "cant_elementos": 12,
+          "cant_rep": 1,
+          "medida": 2.0
+        },
+        {
+          "nombre": "BASE 5",
+          "phi": 10,
+          "cant_elementos": 17,
+          "cant_rep": 1,
+          "medida": 1.4
+        },
+        {
+          "nombre": "BASE 7",
+          "phi": 10,
+          "cant_elementos": 14,
+          "cant_rep": 1,
+          "medida": 1.7
+        },
+        {
+          "nombre": "BASE 9",
+          "phi": 10,
+          "cant_elementos": 8,
+          "cant_rep": 1,
+          "medida": 1.8
+        },
+        {
+          "nombre": "BASE 9",
+          "phi": 10,
+          "cant_elementos": 10,
+          "cant_rep": 1,
+          "medida": 1.1
+        },
+        {
+          "nombre": "BASE 10",
+          "phi": 10,
+          "cant_elementos": 6,
+          "cant_rep": 1,
+          "medida": 2.1
+        },
+        {
+          "nombre": "PLATEA",
+          "phi": 10,
+          "cant_elementos": 30,
+          "cant_rep": 1,
+          "medida": 3.1
+        },
+        {
+          "nombre": "PLATEA",
+          "phi": 10,
+          "cant_elementos": 22,
+          "cant_rep": 1,
+          "medida": 4.1
+        },
+        {
+          "nombre": "PLATEA",
+          "phi": 10,
+          "cant_elementos": 32,
+          "cant_rep": 1,
+          "medida": 1.0
+        }
+      ],
+      "12": [
+        {
+          "nombre": "BASE 1",
+          "phi": 12,
+          "cant_elementos": 17,
+          "cant_rep": 1,
+          "medida": 1.5
+        },
+        {
+          "nombre": "BASE 2",
+          "phi": 12,
+          "cant_elementos": 35,
+          "cant_rep": 1,
+          "medida": 1.75
+        },
+        {
+          "nombre": "BASE 4/14",
+          "phi": 12,
+          "cant_elementos": 11,
+          "cant_rep": 2,
+          "medida": 1.3
+        },
+        {
+          "nombre": "BASE 6",
+          "phi": 12,
+          "cant_elementos": 36,
+          "cant_rep": 1,
+          "medida": 2.0
+        },
+        {
+          "nombre": "BASE 8",
+          "phi": 12,
+          "cant_elementos": 20,
+          "cant_rep": 1,
+          "medida": 1.9
+        },
+        {
+          "nombre": "BASE 10",
+          "phi": 12,
+          "cant_elementos": 12,
+          "cant_rep": 1,
+          "medida": 1.3
+        },
+        {
+          "nombre": "PLATEA",
+          "phi": 12,
+          "cant_elementos": 14,
+          "cant_rep": 1,
+          "medida": 2.0
+        },
+        {
+          "nombre": "VF",
+          "phi": 12,
+          "cant_elementos": 2,
+          "cant_rep": 1,
+          "medida": 2.4
+        },
+        {
+          "nombre": "VF",
+          "phi": 12,
+          "cant_elementos": 2,
+          "cant_rep": 1,
+          "medida": 2.4
+        }
+      ],
+      "16": [
+        {
+          "nombre": "BASE 7",
+          "phi": 16,
+          "cant_elementos": 11,
+          "cant_rep": 1,
+          "medida": 2.4
+        },
+        {
+          "nombre": "BASE 8",
+          "phi": 16,
+          "cant_elementos": 11,
+          "cant_rep": 1,
+          "medida": 2.75
+        },
+        {
+          "nombre": "VF",
+          "phi": 16,
+          "cant_elementos": 2,
+          "cant_rep": 1,
+          "medida": 5.09
+        },
+        {
+          "nombre": "VF",
+          "phi": 16,
+          "cant_elementos": 2,
+          "cant_rep": 1,
+          "medida": 3.22
+        }
+      ],
+      "20": [
+        {
+          "nombre": "BASE 2",
+          "phi": 20,
+          "cant_elementos": 9,
+          "cant_rep": 1,
+          "medida": 4.2
+        },
+        {
+          "nombre": "BASE 3",
+          "phi": 20,
+          "cant_elementos": 8,
+          "cant_rep": 1,
+          "medida": 4.2
+        },
+        {
+          "nombre": "VF",
+          "phi": 20,
+          "cant_elementos": 3,
+          "cant_rep": 1,
+          "medida": 6.0
+        }
+      ],
+      "25": [
+        {
+          "nombre": "VF",
+          "phi": 25,
+          "cant_elementos": 3,
+          "cant_rep": 1,
+          "medida": 4.9
+        },
+        {
+          "nombre": "VF",
+          "phi": 25,
+          "cant_elementos": 2,
+          "cant_rep": 1,
+          "medida": 7.05
+        },
+        {
+          "nombre": "VF",
+          "phi": 25,
+          "cant_elementos": 3,
+          "cant_rep": 1,
+          "medida": 4.95
+        },
+        {
+          "nombre": "VF",
+          "phi": 25,
+          "cant_elementos": 2,
+          "cant_rep": 1,
+          "medida": 5.4
+        },
+        {
+          "nombre": "VF",
+          "phi": 25,
+          "cant_elementos": 2,
+          "cant_rep": 1,
+          "medida": 3.3
+        }
+      ]
+    },
+    "tronco_y_tabique": {
+      "6": [
+        {
+          "nombre": "tronco C1",
+          "phi": 6,
+          "cant_elementos": 12,
+          "cant_rep": 1,
+          "medida": 1.96
+        },
+        {
+          "nombre": "tronco C2 / C3",
+          "phi": 6,
+          "cant_elementos": 18,
+          "cant_rep": 2,
+          "medida": 2.1999999999999997
+        },
+        {
+          "nombre": "tronco c4 / C11",
+          "phi": 6,
+          "cant_elementos": 17,
+          "cant_rep": 2,
+          "medida": 1.82
+        },
+        {
+          "nombre": "tronco C5",
+          "phi": 6,
+          "cant_elementos": 25,
+          "cant_rep": 1,
+          "medida": 1.26
+        },
+        {
+          "nombre": "tronco C5",
+          "phi": 6,
+          "cant_elementos": 25,
+          "cant_rep": 1,
+          "medida": 0.94
+        },
+        {
+          "nombre": "tronco C6",
+          "phi": 6,
+          "cant_elementos": 14,
+          "cant_rep": 1,
+          "medida": 1.28
+        },
+        {
+          "nombre": "tronco C6",
+          "phi": 6,
+          "cant_elementos": 28,
+          "cant_rep": 1,
+          "medida": 0.49
+        },
+        {
+          "nombre": "tronco C7",
+          "phi": 6,
+          "cant_elementos": 25,
+          "cant_rep": 1,
+          "medida": 1.52
+        },
+        {
+          "nombre": "tronco C7",
+          "phi": 6,
+          "cant_elementos": 25,
+          "cant_rep": 1,
+          "medida": 0.8
+        },
+        {
+          "nombre": "tronco C8",
+          "phi": 6,
+          "cant_elementos": 26,
+          "cant_rep": 1,
+          "medida": 1.72
+        },
+        {
+          "nombre": "tronco C8",
+          "phi": 6,
+          "cant_elementos": 26,
+          "cant_rep": 1,
+          "medida": 0.9
+        },
+        {
+          "nombre": "tronco C9",
+          "phi": 6,
+          "cant_elementos": 25,
+          "cant_rep": 1,
+          "medida": 1.86
+        },
+        {
+          "nombre": "tronco C9",
+          "phi": 6,
+          "cant_elementos": 25,
+          "cant_rep": 1,
+          "medida": 0.94
+        },
+        {
+          "nombre": "tronco C10",
+          "phi": 6,
+          "cant_elementos": 15,
+          "cant_rep": 2,
+          "medida": 1.78
+        },
+        {
+          "nombre": "TABIQUE T1",
+          "phi": 6,
+          "cant_elementos": 6,
+          "cant_rep": 1,
+          "medida": 0.24
+        },
+        {
+          "nombre": "TABIQUE T1",
+          "phi": 6,
+          "cant_elementos": 23,
+          "cant_rep": 1,
+          "medida": 0.6
+        },
+        {
+          "nombre": "Tensor 3",
+          "phi": 6,
+          "cant_elementos": 36,
+          "cant_rep": 1,
+          "medida": 1.44
+        },
+        {
+          "nombre": "Tensor 4",
+          "phi": 6,
+          "cant_elementos": 44,
+          "cant_rep": 1,
+          "medida": 1.12
+        }
+      ],
+      "8": [
+        {
+          "nombre": "TABIQUE T1",
+          "phi": 8,
+          "cant_elementos": 23,
+          "cant_rep": 1,
+          "medida": 4.54
+        },
+        {
+          "nombre": "TABIQUE SUB",
+          "phi": 8,
+          "cant_elementos": 8,
+          "cant_rep": 26,
+          "medida": 3.47
+        },
+        {
+          "nombre": "TABIQUE SUB",
+          "phi": 8,
+          "cant_elementos": 8,
+          "cant_rep": 26,
+          "medida": 4.15
+        },
+        {
+          "nombre": "TABIQUE SUB",
+          "phi": 8,
+          "cant_elementos": 16,
+          "cant_rep": 52,
+          "medida": 1.0
+        },
+        {
+          "nombre": "TABIQUE SUB",
+          "phi": 8,
+          "cant_elementos": 6,
+          "cant_rep": 12,
+          "medida": 1.29
+        },
+        {
+          "nombre": "TABIQUE SUB",
+          "phi": 8,
+          "cant_elementos": 4,
+          "cant_rep": 12,
+          "medida": 1.0
+        }
+      ],
+      "10": [
+        {
+          "nombre": "TABIQUE T1",
+          "phi": 10,
+          "cant_elementos": 26,
+          "cant_rep": 1,
+          "medida": 5.3
+        }
+      ],
+      "12": [
+        {
+          "nombre": "tronco c7",
+          "phi": 12,
+          "cant_elementos": 8,
+          "cant_rep": 1,
+          "medida": 4.35
+        },
+        {
+          "nombre": "Tensor 1",
+          "phi": 12,
+          "cant_elementos": 4,
+          "cant_rep": 1,
+          "medida": 7.98
+        },
+        {
+          "nombre": "Tensor 4",
+          "phi": 12,
+          "cant_elementos": 4,
+          "cant_rep": 1,
+          "medida": 8.14
+        }
+      ],
+      "16": [
+        {
+          "nombre": "tronco c4 / C11",
+          "phi": 16,
+          "cant_elementos": 6,
+          "cant_rep": 2,
+          "medida": 4.25
+        },
+        {
+          "nombre": "tronco c5",
+          "phi": 16,
+          "cant_elementos": 8,
+          "cant_rep": 1,
+          "medida": 5.45
+        },
+        {
+          "nombre": "tronco C9",
+          "phi": 16,
+          "cant_elementos": 8,
+          "cant_rep": 1,
+          "medida": 4.45
+        },
+        {
+          "nombre": "TABIQUE T1",
+          "phi": 16,
+          "cant_elementos": 4,
+          "cant_rep": 1,
+          "medida": 5.65
+        },
+        {
+          "nombre": "TABIQUE T1",
+          "phi": 16,
+          "cant_elementos": 26,
+          "cant_rep": 1,
+          "medida": 5.65
+        },
+        {
+          "nombre": "Tensor2",
+          "phi": 16,
+          "cant_elementos": 6,
+          "cant_rep": 1,
+          "medida": 7.38
+        },
+        {
+          "nombre": "Tensor 3",
+          "phi": 16,
+          "cant_elementos": 4,
+          "cant_rep": 1,
+          "medida": 6.44
+        }
+      ],
+      "20": [
+        {
+          "nombre": "tronco c1",
+          "phi": 20,
+          "cant_elementos": 6,
+          "cant_rep": 1,
+          "medida": 4.45
+        },
+        {
+          "nombre": "tronco c2 / C3",
+          "phi": 20,
+          "cant_elementos": 8,
+          "cant_rep": 2,
+          "medida": 5.3
+        },
+        {
+          "nombre": "tronco c6",
+          "phi": 20,
+          "cant_elementos": 8,
+          "cant_rep": 1,
+          "medida": 4.45
+        },
+        {
+          "nombre": "tronco c8",
+          "phi": 20,
+          "cant_elementos": 8,
+          "cant_rep": 1,
+          "medida": 5.85
+        },
+        {
+          "nombre": "tronco c10",
+          "phi": 20,
+          "cant_elementos": 6,
+          "cant_rep": 1,
+          "medida": 4.35
+        }
+      ]
+    }
+  },
+  "expected_targets": {
+    "bases_y_vf:8": 105,
+    "bases_y_vf:10": 32,
+    "bases_y_vf:12": 28,
+    "bases_y_vf:16": 6,
+    "bases_y_vf:20": 9,
+    "bases_y_vf:25": 6,
+    "tronco_y_tabique:6": 55,
+    "tronco_y_tabique:8": 265,
+    "tronco_y_tabique:10": 13,
+    "tronco_y_tabique:12": 12,
+    "tronco_y_tabique:16": 36,
+    "tronco_y_tabique:20": 19
+  },
+  "ingenuo_referencia": {
+    "bases_y_vf:8": 117,
+    "bases_y_vf:10": 35,
+    "bases_y_vf:12": 30,
+    "bases_y_vf:16": 8,
+    "bases_y_vf:20": 11,
+    "bases_y_vf:25": 8,
+    "tronco_y_tabique:6": 60,
+    "tronco_y_tabique:8": 276,
+    "tronco_y_tabique:12": 12,
+    "tronco_y_tabique:16": 39,
+    "tronco_y_tabique:20": 22
+  }
+}
